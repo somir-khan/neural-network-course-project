@@ -1,2 +1,3 @@
+- Neural Network Course Project titled "Diagnosing Parkinson’s Disease Using 1D CNN with DWT Coefficients"
 - Download dataset from [Phisionet](https://physionet.org/content/gaitpdb/1.0.0/) and place it in ```dataset/raw```.
 - Run the matlab script ```DWTExperiment.m``` to preprocess the dataset and generate DWT Coefficients
