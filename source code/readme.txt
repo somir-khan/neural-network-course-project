@@ -1,0 +1,2 @@
+- Download dataset from [Phisionet](https://physionet.org/content/gaitpdb/1.0.0/) and place it in ```dataset/raw```.
+- Run the matlab script ```DWTExperiment.m``` to preprocess the dataset and generate DWT Coefficients
